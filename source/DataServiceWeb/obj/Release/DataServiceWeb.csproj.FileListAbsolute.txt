@@ -1,0 +1,10 @@
+G:\360yunpan\开发\yuyoupai\source\DataServiceWeb\DataServiceWeb\bin\DataServiceWeb.dll
+G:\360yunpan\开发\yuyoupai\source\DataServiceWeb\DataServiceWeb\bin\DataServiceWeb.pdb
+G:\360yunpan\开发\yuyoupai\source\DataServiceWeb\DataServiceWeb\bin\TestLib.dll
+G:\360yunpan\开发\yuyoupai\source\DataServiceWeb\DataServiceWeb\bin\TestLib.pdb
+G:\360yunpan\开发\yuyoupai\source\DataServiceWeb\DataServiceWeb\obj\Release\DataServiceWeb.csprojResolveAssemblyReference.cache
+G:\360yunpan\开发\yuyoupai\source\DataServiceWeb\DataServiceWeb\obj\Release\DataServiceWeb.dll
+G:\360yunpan\开发\yuyoupai\source\DataServiceWeb\DataServiceWeb\obj\Release\DataServiceWeb.pdb
+G:\360yunpan\开发\yuyoupai\source\DataServiceWeb\DataServiceWeb\bin\Oajax.dll
+G:\360yunpan\开发\yuyoupai\source\DataServiceWeb\DataServiceWeb\bin\Newtonsoft.Json.dll
+G:\360yunpan\开发\yuyoupai\source\DataServiceWeb\DataServiceWeb\bin\Oajax.pdb

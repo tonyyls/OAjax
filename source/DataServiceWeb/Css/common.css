@@ -1,0 +1,34 @@
+﻿/*Default.aspx*/
+body{font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif}
+h1,.h1,h2,.h2,h3,.h3,h4,.h4,.lead{font-family:"ff-tisa-web-pro-1","ff-tisa-web-pro-2","Lucida Grande","Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","Microsoft YaHei UI","Microsoft YaHei","WenQuanYi Micro Hei",sans-serif}
+
+#y_header
+{
+    height: 80px;
+    background: #f2f2f2;
+    border-bottom: 1px solid #d8d8d8;
+}
+#y_carousel {
+    height: 300px;
+    margin-top: 10px;
+}
+
+/*列表*/
+#y_list {
+    height: 360px;
+}
+.y_list_header{ width: 100%;border-bottom: 2px solid green;}
+.y_list_content{ width: 100%;border: 1px solid #ddd;height: 300px;}
+
+/*合作伙伴*/
+#y_hezuo {
+    height: 180px;
+}
+.y_hezuo_header{ width: 100%;border-bottom: 2px solid green;}
+.y_hezuo_content {
+    width: 100%;border: 1px solid #ddd;height:80px;
+}
+
+#y_footer {
+    height: 60px;
+}

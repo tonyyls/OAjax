@@ -1,0 +1,6 @@
+G:\360yunpan\开发\yuyoupai\source\DataServiceWeb\Oajax\bin\Release\Oajax.dll
+G:\360yunpan\开发\yuyoupai\source\DataServiceWeb\Oajax\bin\Release\Oajax.pdb
+G:\360yunpan\开发\yuyoupai\source\DataServiceWeb\Oajax\bin\Release\Newtonsoft.Json.dll
+G:\360yunpan\开发\yuyoupai\source\DataServiceWeb\Oajax\obj\Release\Oajax.csprojResolveAssemblyReference.cache
+G:\360yunpan\开发\yuyoupai\source\DataServiceWeb\Oajax\obj\Release\Oajax.dll
+G:\360yunpan\开发\yuyoupai\source\DataServiceWeb\Oajax\obj\Release\Oajax.pdb
